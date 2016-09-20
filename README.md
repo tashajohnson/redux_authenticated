@@ -1,4 +1,4 @@
-This authenticated boilerplate was created by wdjungst
+This authenticated boilerplate was created by wdjungst (https://github.com/wdjungst)
 
 # js_capstone_starter
 Starter Project for DPL universal JavaScript class capstone projects
