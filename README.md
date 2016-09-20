@@ -1,3 +1,5 @@
+This authenticated boilerplate was created by wdjungst
+
 # js_capstone_starter
 Starter Project for DPL universal JavaScript class capstone projects
 
